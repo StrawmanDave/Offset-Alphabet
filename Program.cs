@@ -9,11 +9,12 @@ OffSetString(Offset,alphabet);
 
 void OffSetString(int AmountToOffset, string WhatToOffset)
 {
-    while(amountOffset>i)
+    while(AmountToOffset>i)
     {
         WhatToOffset = WhatToOffset.Substring(1) + WhatToOffset[0];
         i++;
     }
+    Console.WriteLine($"Here is your string offset by {AmountToOffset}");
     Console.WriteLine(WhatToOffset);
 }
 int ReadNumber()
@@ -22,7 +23,7 @@ int ReadNumber()
     {
         Console.Write("Please Enter a number ");
         string num = Console.ReadLine();
-        if(!"123456789".Contains(num)) // Checks if the user put in a number
+        if(!"0123456789".Contains(num)) // Checks if the user put in a number
         {
             Console.WriteLine("That was not a number try again");
         }else
