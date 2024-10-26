@@ -7,6 +7,7 @@ string alphabet = "abcdefghijklmnopqrstuvwxyz";
 
 OffSetString(Offset,alphabet);
 
+// Method for Offsetting the string or in this case the alphabet
 void OffSetString(int AmountToOffset, string WhatToOffset)
 {
     while(AmountToOffset>i)
@@ -17,6 +18,8 @@ void OffSetString(int AmountToOffset, string WhatToOffset)
     Console.WriteLine($"Here is your string offset by {AmountToOffset}");
     Console.WriteLine(WhatToOffset);
 }
+
+// Method for getting a number
 int ReadNumber()
 {
     while(true)
