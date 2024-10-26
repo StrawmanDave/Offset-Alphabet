@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.AssemblyInfo.cs
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.sourcelink.json
+/home/david/david-progamming-1400/Offset-Alphabet/bin/Debug/net8.0/Offset-Alphabet
+/home/david/david-progamming-1400/Offset-Alphabet/bin/Debug/net8.0/Offset-Alphabet.deps.json
+/home/david/david-progamming-1400/Offset-Alphabet/bin/Debug/net8.0/Offset-Alphabet.runtimeconfig.json
+/home/david/david-progamming-1400/Offset-Alphabet/bin/Debug/net8.0/Offset-Alphabet.dll
+/home/david/david-progamming-1400/Offset-Alphabet/bin/Debug/net8.0/Offset-Alphabet.pdb
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.dll
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/refint/Offset-Alphabet.dll
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.pdb
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/Offset-Alphabet.genruntimeconfig.cache
+/home/david/david-progamming-1400/Offset-Alphabet/obj/Debug/net8.0/ref/Offset-Alphabet.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Offset-Alphabet/1.0.0": {
+        "runtime": {
+          "Offset-Alphabet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Offset-Alphabet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
