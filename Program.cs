@@ -1,6 +1,7 @@
 ﻿// David 10/26/24 Offset Alphabet
 
 Console.Clear();
+int holder;
 int i = 0;
 int Offset = ReadNumber();
 string alphabet = "abcdefghijklmnopqrstuvwxyz";
@@ -24,9 +25,12 @@ int ReadNumber()
 {
     while(true)
     {
+        
         Console.Write("Please Enter a number ");
         string num = Console.ReadLine();
-        if(!"0123456789".Contains(num)) // Checks if the user put in a number
+
+        bool isNum = int.TryParse(num, out holder);
+        if(isNum == false) // Checks if the user put in a number
         {
             Console.WriteLine("That was not a number try again");
         }else
